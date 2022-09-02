@@ -1,0 +1,19 @@
+const GAME_WIDTH = 288;
+const GAME_HEIGHT = 512;
+const GAME_FPS = 40;
+const GAME_SPEED = 4;
+const GAME_GRAVITY = 0.15;
+const FLAP_VELOCITY = 5;
+const PIPE_DISTANCE = 100;
+const PIPE_WID = 52;
+
+export {
+    GAME_WIDTH,
+    FLAP_VELOCITY,
+    GAME_GRAVITY,
+    GAME_HEIGHT,
+    GAME_SPEED,
+    GAME_FPS,
+    PIPE_DISTANCE,
+    PIPE_WID
+}
